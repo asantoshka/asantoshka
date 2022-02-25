@@ -18,8 +18,7 @@ navbar-links:
   Home: /
   About Me: "aboutme"
   Resources:
-
-#    - Resume: "https://beautifuljekyll.com"
+    - Notes: "notes"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   
 
