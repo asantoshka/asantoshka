@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About me
+cover-img: /assets/img/aboutme.jpg
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Santosh from India. I love technology.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I give this plugin two :+1:!
 
 ### My story
 
