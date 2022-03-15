@@ -15,9 +15,7 @@ subtitle: Notes and thoughts
 
     Name: `<svg onload=alert(1)>`
 
-3. This can be a payload for SSRF: `<iframe src='https://labs.amakki.me'>` [link](https://amakki.me/full-ssrf-by-exporting-pdf-bbe1bfde24c4)
+3. Got some api keys, let's check this [KeyHacks](https://github.com/streaak/keyhacks) 
 
-4. Got some api keys, let's check this [KeyHacks](https://github.com/streaak/keyhacks) 
-
-5. Another nice payload for XSS: [link](https://brutelogic.com.br/poc.svg)
+4. Another nice payload for XSS: [link](https://brutelogic.com.br/poc.svg)
 
