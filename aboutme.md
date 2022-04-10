@@ -2,13 +2,15 @@
 layout: page
 title: About me
 cover-img: /assets/img/aboutme.jpg
-subtitle: Why you'd want to go on a date with me
+subtitle: Idk why, but you seem to be interested in me :p
 ---
 
-I am Santosh from India. I love technology.
+Hey there, I am Santosh Achary. I am a cybersecurity engineer :bowtie: living in India. I love to explore various technologies and learn new things in the field of Information technology to be more precise Cybersecurity. Apart from my [day-job](https://www.linkedin.com/in/asantoshka/), I do traveling, exploring new places, camping, listening music, sometimes playing chess. Occasanally I read books mostly self help or non-fictional. 
 
-I give this plugin two :+1:!
+I spend time automating boring and repeatative tasks using my noob coding skills. Also I play CTFs over the weekends while having some cold coffee. Sometimes I do bug-bounty, not great at that though. 
 
-### My story
+I consider myself as a noob and I know it gets more interesting while learning together so if you feel like exploring new things with me or have some chit-chat, feel free to hit my DM. Thanks
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<!-- ### My story
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. -->
