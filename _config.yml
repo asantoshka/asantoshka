@@ -19,6 +19,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Notes: "notes"
+    - Resume: "resume" 
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   
 
