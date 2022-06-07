@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":2,"title":"","author":"A Santosh Kumar Achary","subject":"","keywords":"","creator":"Writer","producer":"LibreOffice 7.0","creationdate":"D:20220607091839+02'00'","moddate":"","trapped":"","fileName":"A_Santosh_Kumar_Achary.pdf","bounds":[[935,1210],[935,1210]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
