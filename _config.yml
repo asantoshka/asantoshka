@@ -18,7 +18,7 @@ navbar-links:
   Home: /
   About Me: "aboutme"
   Resources:
-    - Notes: "notes"
+    - Notes: "https://santosh-achary.notion.site/Tech-Notes-226a69b7f8f7473d879d0b424597656c"
     - Resume: "https://1drv.ms/b/s!Apk41BxbSYkbgog1UYQLJijp3Q9pcg" 
     - Write ups: "https://santosh-achary.notion.site/Write-ups-b930369d2bd24e38a84ee4d00a27bf2a"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
