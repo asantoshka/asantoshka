@@ -18,5 +18,5 @@ subtitle: Notes and thoughts
 3. Got some api keys, let's check this [KeyHacks](https://github.com/streaak/keyhacks) 
 
 4. Another nice payload for XSS: [link](https://brutelogic.com.br/poc.svg)
-5. Online photoshop : [link](https://www.photopea.com/)
+5. Online free photoshop : [link](https://www.photopea.com/)
 
