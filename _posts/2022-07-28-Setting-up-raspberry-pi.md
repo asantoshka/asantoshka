@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Setting up a Raspberry pi 
-subtitle: A brief research on vulnerability management
-# thumbnail-img:
-tags: [Security, Hacking, Vulnerability Management]
+subtitle: A step by step guide to setting up raspberry pi
+thumbnail-img: /assets/img/rbpi/rbpi.jpg
+tags: [Raspberry-pi, Tech]
 ---
 
 # Setting up a Raspberry pi
