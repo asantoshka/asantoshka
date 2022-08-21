@@ -11,10 +11,9 @@ tags: [Raspberry-pi, Tech]
 
 This blog includes a step by step guide to install and start a raspberry pi. We will see how to assemble a raspberry pi kit, connecting various cables and installing raspberry pi OS.
 
-<aside>
 🙏🏻 I have received this raspberry pi kit from team tenable after a small quiz. A huge thanks to [Tenable](https://www.tenable.com/campaigns/nessus-on-raspberrypi).
 
-</aside>
+
 
 ## Components used:
 
