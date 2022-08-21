@@ -2,7 +2,7 @@
 layout: post
 title: Setting up a Raspberry pi 
 subtitle: A step by step guide to setting up raspberry pi
-thumbnail-img: /assets/img/nessus-rbpi/cover.png
+thumbnail-img: /assets/img/rbpi/rbpi.jpg
 tags: [Raspberry-pi, Tech]
 ---
 
