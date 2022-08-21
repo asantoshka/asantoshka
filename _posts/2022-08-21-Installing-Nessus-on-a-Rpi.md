@@ -2,7 +2,7 @@
 layout: post
 title: Installing Nessus on a raspberry pi 4 
 subtitle: A step by step guide to install Nessus on a raspberry pi 4
-thumbnail-img: /assets/img/nessus-rbpi/cover.pngrbpi.jpg
+thumbnail-img: /assets/img/nessus-rbpi/cover.png
 tags: [Raspberry-pi, Tech, Nessus, Vulnerability Management, Security]
 ---
 
@@ -91,4 +91,4 @@ After some time the scan will be completed and we can see the results.
 
 Next we can export the report or we can do the analysis of the vulnerabilities. 
 
-That’s all for this blog. If you want to get a brief idea about the Vulnerability assessment, then you can check my `Vulnerability assessment` blog.  Thanks for reading and please reach out to me for any feedbacks.
+That’s all for this blog. If you want to get a brief idea about the Vulnerability assessment, then you can check my [Vulnerability assessment](https://santoshachary.in/2022-04-15-vulnerability-management/) blog.  Thanks for reading and please reach out to me for any feedbacks.
