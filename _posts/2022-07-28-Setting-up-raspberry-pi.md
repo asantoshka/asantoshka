@@ -2,7 +2,7 @@
 layout: post
 title: Setting up a Raspberry pi 
 subtitle: A step by step guide to setting up raspberry pi
-thumbnail-img: /assets/img/rbpi/rbpi.jpg
+thumbnail-img: /assets/img/nessus-rbpi/cover.png
 tags: [Raspberry-pi, Tech]
 ---
 
@@ -12,7 +12,7 @@ tags: [Raspberry-pi, Tech]
 This blog includes a step by step guide to install and start a raspberry pi. We will see how to assemble a raspberry pi kit, connecting various cables and installing raspberry pi OS.
 
 <aside>
-🙏🏻 I have received this raspberry pi kit from team tenable after a small quiz. A huge thanks to  Tenable.
+🙏🏻 I have received this raspberry pi kit from team tenable after a small quiz. A huge thanks to [Tenable](https://www.tenable.com/campaigns/nessus-on-raspberrypi).
 
 </aside>
 
