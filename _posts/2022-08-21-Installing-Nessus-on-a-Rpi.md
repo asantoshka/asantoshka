@@ -2,7 +2,7 @@
 layout: post
 title: Installing Nessus on a raspberry pi 4 
 subtitle: A step by step guide to install Nessus on a raspberry pi 4
-thumbnail-img: /assets/img/nessus-rbpi/cover.png
+thumbnail-img: /assets/img/nessus-rbpi/cover1.png
 tags: [Raspberry-pi, Tech, Nessus, Vulnerability Management, Security]
 ---
 
