@@ -15,13 +15,11 @@ Hence tenable has released a Nessus package for ARM CPU which is there on the Ra
 
 ## Pre-requisite
 
-TLDR; Raspberry pi with 32 bit raspberry pi OS installed. 
+TLDR; Raspberry pi with 32 bit raspberry pi OS installed. You can refer my [blog](https://santoshachary.in/2022-07-28-Setting-up-raspberry-pi/) for step by step guide.  
 
 The only pre-requisite for this installation is a raspberry pi kit with Raspberry pi 32 bit OS installed. While writing this blog tenable has released a 32 bit Nessus package only. So incase if you are trying to install it on a 64 bit package you may face some problem as I have gone through the same. But it should not be the case. As far as I know all the 32 bit software should support on 64 bit CPU. If you know why that is happening please let me know. 
 
 ## Installation
-
-/assets/img/rbpi/
 
 Without any further delay, let’s see what all steps someone should follow to do it. The best place to get started is the tenable [documentation](https://docs.tenable.com/nessus/Content/InstallNessusRaspberryPi.htm) itself. 
 
